@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanisorn Opitakorn</h1>
 <h3 align="center">Hi there! My name is Pond, and I'm currently a third-year student at Silpakorn University, majoring in Information Technology. I’m passionate about back-end development</h3>
 
-- 🌱 I’m currently learning **Go (Gin), React, Flutter**
+- 🌱 I’m currently learning **Go, React, Flutter**
 
 - 📫 How to reach me **opitakorn_k@silpakorn.edu**
 
